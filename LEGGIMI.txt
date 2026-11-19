@@ -1,0 +1,15 @@
+GESTIONALE BARBERIA - app installabile
+
+1) PUBBLICA LA CARTELLA (gratis, serve per poterla installare)
+   - Vai su https://app.netlify.com/drop e trascina qui l'intera cartella "Barberia-App".
+   - Ti da' un indirizzo https://... : e' la tua app. (In alternativa: Cloudflare Pages o GitHub Pages.)
+
+2) INSTALLALA
+   - Android (Chrome): menu ⋮ > "Installa app" / "Aggiungi a schermata Home".
+   - iPhone (Safari): tasto Condividi > "Aggiungi alla schermata Home".
+   - PC (Chrome o Edge): icona "Installa" nella barra dell'indirizzo.
+
+3) DATI
+   - Prodotti, offerte e foto restano salvati nel dispositivo (non in cloud).
+   - Ogni telefono/PC ha i suoi dati: per spostarli usa "Esporta backup" e "Importa backup" nel Magazzino.
+   - Fai un backup ogni tanto: se cancelli i dati del browser/app si perdono.
